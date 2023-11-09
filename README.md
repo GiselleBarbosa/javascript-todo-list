@@ -1,7 +1,7 @@
-## To do List
+#### TO DO LIST
 
-Página feita utilizando apenas Html/css e Javascript.
+Aplicacao feita utilizando apenas html/css e javascript.
 
-[Demo](https://gisellebarbosa.github.io/To-Do-List-2.0/)
+[DEPLOY](https://gisellebarbosa.github.io/To-Do-List-2.0/)
 
 
